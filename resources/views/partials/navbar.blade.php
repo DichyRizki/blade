@@ -11,7 +11,7 @@
                     <a class="nav-link active" aria-current="page" href="#">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" href="#">Task</a>
+                    <a class="nav-link active" href="/dashboard/task">Task</a>
                 </li>
             </ul>
             <form action="{{ route('logout') }}" method="get" class="d-flex">
